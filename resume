@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>W3.CSS Template</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+    html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+    </style>
+  </head>
+<body class="w3-light-grey">
+
+<!-- Page Container -->
+<div class="w3-content w3-margin-top" style="max-width:1400px;">
+
+  <!-- The Grid -->
+  <div class="w3-row-padding">
+  
+    <!-- Left Column -->
+    <div class="w3-third">
+    
+      <div class="w3-white w3-text-grey w3-card-4">
+        <div class="w3-display-container">
+          <img src="https://lh3.googleusercontent.com/mIRL0PzOZZQnhnSxX95F1qhjp0bOqL1Jff08XhA6HNDCEIVQk2784gUl336TNZx0yrF3dNELv1BD_U4lKSP9B1vVA-LY07GkLuk8A6ptMp_aTOSMB54tTL7nLePCfZNNBNt3mPvW5B9TcHxOIHxIa9r5L3f59J9srbvXnsPuPtx9WM0ZKXphWzjDeedjh5uyUxCZcr6qGfp6H09gbA3S1CWnNic71jIkWyHo0aBnT3S6iTFVtCAbp_pcYg5HimiRZLyNK-rKoIz-GTnDyVCdV3utxEry-AtYDaLCKuqDO8bHt3g27R_8HcMRqJqbUceg-7gWHRAxb7n0ENLMKrNaG_YQk71zmzOB53Zz_V7ZRJUIjXRm62p6_ubU-13UUSKg4O5W_g103kST7HDh_42WTwUavGDpzARBEOPvLRXG8QGHP1CFyswY3JwEcSbnh3IZ6fA7eFMIhKb0aPJY9S4H7GYLayiyvGHt0JvVizdb0RcH6lVS_LfdQBlLrsOV6R-bklGdb-rAtxblnC9tCqviiP2rIKwhDTlnDD0HQP935_lViHmzLKgg9JwKhuKhW6ZcElMQs70Zd6XCxUzp_GelT7iNjsm1JO0hW8-V-X7JMa7JC0uoI78-9VMqigeSulznNqfer0DgrM_Uj-Py4kFq-4QSbLrF9EA1booRxecSRpCEV3RjDIqUZmWHOj4HrOQoPhrRXg63rDsd7yKQmrgpufg5GDPULBdtp86AARCk8VzZOVNKkJPWZ72hS578PEB7I910_QTUR9n5SDDiG6I8ZZo5AFuy3G102jq9PFwA2cWQB1ZTmD9Uif3I3Tb5Amd_TZLdt3btcKbeFaE0VTw8pULS5TxQUAqzzep-Bk3d9otk2erOptv_1EetSvBxWKqePjrR0RuCJtRqrZryvuToswf-yDhtFkOKG7votaQKRjN32A=w670-h892-no?authuser=0" style="width:100%" alt="Avatar">
+          <div class="w3-display- w3-container w3-text-black">
+            <h3>Sayantika Paul</h2>
+          </div>
+        </div>
+        <div class="w3-container">
+          <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>2nd Year UG Student</p>
+          <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Kolkata, West Bengal</p>
+          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>paulsayantika89@mail.com</p>
+          <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>7439069835</p>
+          <hr>
+
+          <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Skills</b></p>
+          <p>Coding</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:90%">70%</div>
+          </div>
+          <p>Design Thinking</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:50%">
+              <div class="w3-center w3-text-white">50%</div>
+            </div>
+          </div>
+          <p>Communication Skills</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:75%">75%</div>
+          
+          </div>
+          <br>
+
+          <p class="w3-large w3-text-theme"><b><i class="fa fa-globe fa-fw w3-margin-right w3-text-teal"></i>Languages</b></p>
+          <p>English</p>
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-teal" style="height:24px;width:90%"></div>
+          </div>
+          <p>Bengali</p>
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-teal" style="height:24px;width:90%"></div>
+          </div>
+          <p>Hindi</p>
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-teal" style="height:24px;width:30%"></div>
+          </div>
+          <br>
+        </div>
+      </div><br>
+
+    <!-- End Left Column -->
+    </div>
+
+    <!-- Right Column -->
+    <div class="w3-twothird">
+    
+      <div class="w3-container w3-card w3-white w3-margin-bottom">
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Work Experience</h2>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Web Development Project</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>October 2022  <span class="w3-tag w3-teal w3-round"></span></h6>
+          <p>Our University has organized an exhibition on Innovation of Technology there I have worked as a web developer with some basics of html in our project.</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Innovation Project</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>August 2021</h6>
+          <p>Had a project on Design Thinking and ideas we made a group work on social media and its useful as well as harmful effects.</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Communication Counselling</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>March 2018</h6>
+          <p>Attended a counselling on communication and skills development where we have learned lots of knowledge in communication and its useful benefits. </p><br>
+        </div>
+      </div>
+
+      <div class="w3-container w3-card w3-white">
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>University of Engineering and Management, Kolkata</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2021-2025</h6>
+          <p>University- Bachelor Degree</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Central Model School,Barrackpore</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2019 - 2021</h6>
+          <p>Secondary School</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Contai Public School</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2012 - 2019</h6>
+          <p>Primary School</p><br>
+        </div>
+      </div>
+
+    <!-- End Right Column -->
+    </div>
+    
+  <!-- End Grid -->
+  </div>
+  
+  <!-- End Page Container -->
+</div>
+
+
+
+</body>
+</html>
